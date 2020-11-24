@@ -1,0 +1,12 @@
+D:\Users\Victor\source\repos\uri_1021\uri_1021\bin\Debug\netcoreapp3.1\uri_1021.exe
+D:\Users\Victor\source\repos\uri_1021\uri_1021\bin\Debug\netcoreapp3.1\uri_1021.deps.json
+D:\Users\Victor\source\repos\uri_1021\uri_1021\bin\Debug\netcoreapp3.1\uri_1021.runtimeconfig.json
+D:\Users\Victor\source\repos\uri_1021\uri_1021\bin\Debug\netcoreapp3.1\uri_1021.runtimeconfig.dev.json
+D:\Users\Victor\source\repos\uri_1021\uri_1021\bin\Debug\netcoreapp3.1\uri_1021.dll
+D:\Users\Victor\source\repos\uri_1021\uri_1021\bin\Debug\netcoreapp3.1\uri_1021.pdb
+D:\Users\Victor\source\repos\uri_1021\uri_1021\obj\Debug\netcoreapp3.1\uri_1021.AssemblyInfoInputs.cache
+D:\Users\Victor\source\repos\uri_1021\uri_1021\obj\Debug\netcoreapp3.1\uri_1021.AssemblyInfo.cs
+D:\Users\Victor\source\repos\uri_1021\uri_1021\obj\Debug\netcoreapp3.1\uri_1021.csproj.CoreCompileInputs.cache
+D:\Users\Victor\source\repos\uri_1021\uri_1021\obj\Debug\netcoreapp3.1\uri_1021.dll
+D:\Users\Victor\source\repos\uri_1021\uri_1021\obj\Debug\netcoreapp3.1\uri_1021.pdb
+D:\Users\Victor\source\repos\uri_1021\uri_1021\obj\Debug\netcoreapp3.1\uri_1021.genruntimeconfig.cache

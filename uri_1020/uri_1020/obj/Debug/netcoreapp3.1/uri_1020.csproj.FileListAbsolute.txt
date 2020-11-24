@@ -1,0 +1,13 @@
+D:\Users\Victor\source\repos\uri_1020\uri_1020\bin\Debug\netcoreapp3.1\uri_1020.exe
+D:\Users\Victor\source\repos\uri_1020\uri_1020\bin\Debug\netcoreapp3.1\uri_1020.deps.json
+D:\Users\Victor\source\repos\uri_1020\uri_1020\bin\Debug\netcoreapp3.1\uri_1020.runtimeconfig.json
+D:\Users\Victor\source\repos\uri_1020\uri_1020\bin\Debug\netcoreapp3.1\uri_1020.runtimeconfig.dev.json
+D:\Users\Victor\source\repos\uri_1020\uri_1020\bin\Debug\netcoreapp3.1\uri_1020.dll
+D:\Users\Victor\source\repos\uri_1020\uri_1020\bin\Debug\netcoreapp3.1\uri_1020.pdb
+D:\Users\Victor\source\repos\uri_1020\uri_1020\obj\Debug\netcoreapp3.1\uri_1020.csprojAssemblyReference.cache
+D:\Users\Victor\source\repos\uri_1020\uri_1020\obj\Debug\netcoreapp3.1\uri_1020.AssemblyInfoInputs.cache
+D:\Users\Victor\source\repos\uri_1020\uri_1020\obj\Debug\netcoreapp3.1\uri_1020.AssemblyInfo.cs
+D:\Users\Victor\source\repos\uri_1020\uri_1020\obj\Debug\netcoreapp3.1\uri_1020.csproj.CoreCompileInputs.cache
+D:\Users\Victor\source\repos\uri_1020\uri_1020\obj\Debug\netcoreapp3.1\uri_1020.dll
+D:\Users\Victor\source\repos\uri_1020\uri_1020\obj\Debug\netcoreapp3.1\uri_1020.pdb
+D:\Users\Victor\source\repos\uri_1020\uri_1020\obj\Debug\netcoreapp3.1\uri_1020.genruntimeconfig.cache
