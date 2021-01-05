@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\ws-vs2019\\uri\\uri_1009\\uri_1009\\uri_1009.csproj",
+      "projectUniqueName": "D:\\workspace\\desafios-uri\\uri_1009\\uri_1009\\uri_1009.csproj",
       "projectName": "uri_1009",
-      "projectPath": "D:\\workspace\\ws-vs2019\\uri\\uri_1009\\uri_1009\\uri_1009.csproj",
+      "projectPath": "D:\\workspace\\desafios-uri\\uri_1009\\uri_1009\\uri_1009.csproj",
       "packagesPath": "D:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\ws-vs2019\\uri\\uri_1009\\uri_1009\\obj\\",
+      "outputPath": "D:\\workspace\\desafios-uri\\uri_1009\\uri_1009\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
