@@ -1,0 +1,13 @@
+D:\workspace\desafios-uri\uri_1046\uri_1046\bin\Debug\netcoreapp3.1\uri_1046.exe
+D:\workspace\desafios-uri\uri_1046\uri_1046\bin\Debug\netcoreapp3.1\uri_1046.deps.json
+D:\workspace\desafios-uri\uri_1046\uri_1046\bin\Debug\netcoreapp3.1\uri_1046.runtimeconfig.json
+D:\workspace\desafios-uri\uri_1046\uri_1046\bin\Debug\netcoreapp3.1\uri_1046.runtimeconfig.dev.json
+D:\workspace\desafios-uri\uri_1046\uri_1046\bin\Debug\netcoreapp3.1\uri_1046.dll
+D:\workspace\desafios-uri\uri_1046\uri_1046\bin\Debug\netcoreapp3.1\uri_1046.pdb
+D:\workspace\desafios-uri\uri_1046\uri_1046\obj\Debug\netcoreapp3.1\uri_1046.csprojAssemblyReference.cache
+D:\workspace\desafios-uri\uri_1046\uri_1046\obj\Debug\netcoreapp3.1\uri_1046.AssemblyInfoInputs.cache
+D:\workspace\desafios-uri\uri_1046\uri_1046\obj\Debug\netcoreapp3.1\uri_1046.AssemblyInfo.cs
+D:\workspace\desafios-uri\uri_1046\uri_1046\obj\Debug\netcoreapp3.1\uri_1046.csproj.CoreCompileInputs.cache
+D:\workspace\desafios-uri\uri_1046\uri_1046\obj\Debug\netcoreapp3.1\uri_1046.dll
+D:\workspace\desafios-uri\uri_1046\uri_1046\obj\Debug\netcoreapp3.1\uri_1046.pdb
+D:\workspace\desafios-uri\uri_1046\uri_1046\obj\Debug\netcoreapp3.1\uri_1046.genruntimeconfig.cache
