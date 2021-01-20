@@ -1,4 +1,4 @@
-<center><h1>DESAFIO 1065 URI ONLINE</h1></center>
+<center><h1>DESAFIO 1066 URI ONLINE</h1></center>
 
 Faça um programa que leia 5 valores inteiros. Conte quantos destes valores digitados são pares e mostre esta informação.
 
