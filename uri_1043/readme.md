@@ -1,4 +1,4 @@
-<center><h1>DESAFIO 1042 URI ONLINE</h1></center>
+<center><h1>DESAFIO 1043 URI ONLINE</h1></center>
 
 Leia 3 valores reais (A, B e C) e verifique se eles formam ou não um triângulo. Em caso positivo, calcule o perímetro do triângulo e apresente a mensagem:
 
