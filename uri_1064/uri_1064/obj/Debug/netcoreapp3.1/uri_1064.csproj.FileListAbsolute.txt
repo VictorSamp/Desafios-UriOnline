@@ -1,0 +1,12 @@
+E:\workspace\desafios-uri\uri_1064\uri_1064\bin\Debug\netcoreapp3.1\uri_1064.exe
+E:\workspace\desafios-uri\uri_1064\uri_1064\bin\Debug\netcoreapp3.1\uri_1064.deps.json
+E:\workspace\desafios-uri\uri_1064\uri_1064\bin\Debug\netcoreapp3.1\uri_1064.runtimeconfig.json
+E:\workspace\desafios-uri\uri_1064\uri_1064\bin\Debug\netcoreapp3.1\uri_1064.runtimeconfig.dev.json
+E:\workspace\desafios-uri\uri_1064\uri_1064\bin\Debug\netcoreapp3.1\uri_1064.dll
+E:\workspace\desafios-uri\uri_1064\uri_1064\bin\Debug\netcoreapp3.1\uri_1064.pdb
+E:\workspace\desafios-uri\uri_1064\uri_1064\obj\Debug\netcoreapp3.1\uri_1064.AssemblyInfoInputs.cache
+E:\workspace\desafios-uri\uri_1064\uri_1064\obj\Debug\netcoreapp3.1\uri_1064.AssemblyInfo.cs
+E:\workspace\desafios-uri\uri_1064\uri_1064\obj\Debug\netcoreapp3.1\uri_1064.csproj.CoreCompileInputs.cache
+E:\workspace\desafios-uri\uri_1064\uri_1064\obj\Debug\netcoreapp3.1\uri_1064.dll
+E:\workspace\desafios-uri\uri_1064\uri_1064\obj\Debug\netcoreapp3.1\uri_1064.pdb
+E:\workspace\desafios-uri\uri_1064\uri_1064\obj\Debug\netcoreapp3.1\uri_1064.genruntimeconfig.cache
